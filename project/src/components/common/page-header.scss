@@ -1,0 +1,25 @@
+@use "../../styles/variables" as v;
+
+.page-header{
+    //background-color: v.$color5;
+    color: v.$color3;
+    padding: 50px 0;
+    
+    h1{
+        font-size: 2rem;
+        font-weight: 700;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+       /*  &::before{ h1den önce nokta koy 
+            content: ".";
+            margin-right: 1rem; 
+           
+        }*/
+      /*   &::after{
+            content: "."; /* h1den sonra nokta koy 
+            margin-left: 1rem;
+        } */
+    }
+}

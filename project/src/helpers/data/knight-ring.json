@@ -1,0 +1,101 @@
+[
+    {
+    "classes": "Mage",
+    "Np": 123423,
+    "experience": 89,
+    "price": 12000,
+    "race" : "Human",
+    "stats":{
+        "str":0,
+        "dex":0,
+        "hp":177,
+        "int":0,
+        "mp":255
+    }
+    
+},
+{
+    "classes": "Warrior",
+    "Np": 15461,
+    "experience": 45,
+    "price": 10000,
+    "race" : "Human",
+    "stats":{
+        "str":255,
+        "dex":0,
+        "hp":177,
+        "int":0,
+        "mp":0
+    }
+},
+{
+    "classes": "Warrior",
+    "Np": 89434,
+    "experience": 33,
+    "price": 11000,
+    "race" : "Orc",
+    "stats":{
+        "str":255,
+        "dex":0,
+        "hp":177,
+        "int":0,
+        "mp":0
+    }
+},
+{
+    "classes": "Rogue",
+    "Np": 78977,
+    "experience": 2,
+    "price": 10000,
+    "race" : "Human",
+    "stats":{
+        "str":255,
+        "dex":0,
+        "hp":177,
+        "int":0,
+        "mp":0
+    }
+},
+{
+    "classes": "Rogue",
+    "Np": 254,
+    "experience": 55,
+    "price": 7000,
+    "race" : "Human",
+    "stats":{
+        "str":255,
+        "dex":0,
+        "hp":177,
+        "int":0,
+        "mp":0
+    }
+},
+{
+    "classes": "Priest",
+    "Np": 65245,
+    "experience": 48,
+    "price": 9000,
+    "race" : "Orc",
+    "stats":{
+        "str":255,
+        "dex":0,
+        "hp":177,
+        "int":0,
+        "mp":0
+    }
+},
+{
+    "classes": "Mage",
+    "Np": 124567889,
+    "experience": 95,
+    "price": 15000,
+    "race" : "Human",
+    "stats":{
+        "str":255,
+        "dex":0,
+        "hp":177,
+        "int":0,
+        "mp":0
+    }
+}
+]

@@ -1,0 +1,27 @@
+@use "../../styles/variables" as v;
+
+.topbar{
+    background-color: v.$color5;
+    color: v.$color3;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+    .row:first-child{
+        padding-top: 7px;
+    }
+
+    .btn{
+        cursor: pointer;
+        color: v.$color4;
+        margin: .2rem;
+    
+        &:hover{
+            background-color: v.$color4;
+            color: v.$color3;
+        }
+        
+    }
+
+
+
+}

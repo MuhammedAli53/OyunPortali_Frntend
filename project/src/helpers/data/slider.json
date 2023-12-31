@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "image": "slider-01.jpg",
+        "title": "Knight Online'da gücünüze güç katmak için buradayız.",
+        "desc": "Goldbar, karakter ve item satım-alım işlemlerinizi sitemizden güvenle yapabilirsiniz."
+    },
+    {
+        "id":2,
+        "image": "slider-02.jpg",
+        "title": "Kampanya ! Yeni üyelere özel komisyon ücretini düşürüyoruz.",
+        "desc": "Yeni üye olanlara özel alım-satım işlemlerinizde komisyon ücretini %1 olarak belirledik. Sakın Kaçırmayın..."
+    }
+   
+  
+]

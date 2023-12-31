@@ -1,0 +1,46 @@
+@use "../../styles/variables" as v;
+
+.container{
+h4{
+    color: v.$color3;
+}
+}
+.knight-ring{
+    text-align: center;
+    .ring-classes{
+        color: white;
+        text-align: center;
+    }
+    .ring-image{
+        width: 45px;
+        height: 45px;   
+    }
+    
+    .ring-body{
+        color: white;
+        display: block;
+        justify-content: space-between;
+        .stats{
+            display: inline-block;
+            
+        }
+       
+        .stats{
+            list-style-type: none;
+            display: block;
+            
+        }
+    }
+    
+    .ring-footer{
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        .btn{
+            &:hover{
+                background-color: v.$color5;
+            }
+        }
+        
+    }
+}

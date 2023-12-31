@@ -1,0 +1,32 @@
+@use "../../../styles/variables" as v;
+
+.mobile-app{
+    background-color:v.$color5 ;
+    transform: translateY(50px);
+
+    > div{/* cocuk olan div */
+        padding: 50px;
+
+    }
+    div[class^="col"]{
+        display: flex;
+        align-items: center;
+
+        &:last-child{
+            justify-content: end;
+
+            button{
+                margin-left: 10px;
+            }
+        }
+    }
+    .btn{
+        color: v.$color3;
+        background-color: v.$color4;
+        margin: 1rem;
+        &:hover{
+            background-color: v.$color3;
+            color: v.$color4;
+        }
+    }
+}

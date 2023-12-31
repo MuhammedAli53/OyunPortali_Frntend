@@ -1,0 +1,32 @@
+@use "../../styles/variables" as v;
+
+.games-card { 
+  height: 100% !important;
+  cursor: pointer;
+  .card-title {
+    color: v.$color3;
+    margin-bottom: 25px;
+    margin-top: 10px;
+  }
+
+  .card-subtitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: v.$color1;
+  }
+  .card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    .image{
+        overflow: hidden; /* js dosyasında bir div yapısı içerisinde image classname tanımdaık. taşmaları gizle dedik. */
+        img{
+            transition: transform 0.5s; /* resmi büyütme işlemini 0.5 saniyede gerçekleştir. Daha yumuşak bir büyütme */
+            &:hover{
+                transform: scale(1.3); /* 1.adım, hover olduğunda resmi 1.3 oranda büyüt */
+            }
+        }
+    }
+  }
+}

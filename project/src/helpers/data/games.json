@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Knight Online",
+        "image" : "Knight-oyun.webp",
+        "featured": true
+    },
+    {
+        "id" : 2,
+        "title": "Pubg Mobile",
+        "image": "Pubg-oyun.webp",
+        "featured": true
+    },
+    {
+        "id" : 3,
+        "title": "Rise Online",
+        "image": "Rise-oyun.webp",
+        "featured": true
+    },
+    {
+        "id" : 4,
+        "title": "LeagueofLegends",
+        "image": "LeagueofLegends-oyun.webp",
+        "featured": true
+    },
+    {
+        "id" : 5,
+        "title": "Valorant",
+        "image": "Valorant-oyun.webp",
+        "featured": true
+    },
+    {
+        "id" : 6,
+        "title": "Silkroad Online",
+        "image": "Silkroad-oyun.jpg",
+        "featured": true
+    }
+]

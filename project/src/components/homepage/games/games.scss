@@ -1,0 +1,8 @@
+@use "../../../styles/variables" as v;
+
+.games-index{
+    background-color: white ;
+    h4{
+        color: v.$color2;
+    }
+}

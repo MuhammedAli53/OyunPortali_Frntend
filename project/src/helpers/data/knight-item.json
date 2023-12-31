@@ -1,0 +1,87 @@
+[
+    {
+        "id":1,
+        "name" :"Amulet of Str",
+        "rate": 3,
+        "price":7900,
+        "server": "Pandora",
+        "image":"amulet-of-strength+3.webp",
+        "reverse": false,
+        "classes": "Warrior, Rogue, Mage, Priest, Kurian",
+        "features" :"aos+3.png"
+        
+    },
+    {
+        "id":2,
+        "name" :"Raptor",
+        "rate": 11,
+        "price": 15000,
+        "server": "Pandora",
+        "image": "raptor+11_reverse.webp",
+        "reverse": true,
+        "classes": "Warrior, Kurian",
+        "features" :"raptor-features.png"
+    },
+    {
+        "id":3,
+        "name" :"Shard",
+        "rate": 8,
+        "price": 7500,
+        "server": "Pandora",
+        "image": "shard+8.webp",
+        "classes": "Rogue",
+        "features" :"shard+8.png"
+    },
+    {
+        "id":4,
+        "name" :"Hell Breaker",
+        "rate": 7,
+        "price": 3500,
+        "server": "Pandora",
+        "image": "hell-breaker+21_reverse.webp",
+        "classes": "Warrior, Priest, Kurian",
+        "features" :"hb+7.png"
+    },
+    {
+        "id":5,
+        "name" :"Foverin",
+        "rate": 3,
+        "price": 2500,
+        "server": "Pandora",
+        "image":"foverin+3.webp",
+        "classes": "Warrior, Rogue, Mage, Priest, Kurian",
+        "features" :"foverin+3.png"
+        
+    },
+    {
+        "id":6,
+        "name" :"Helenid",
+        "rate": 7,
+        "price": 3500,
+        "server": "Pandora",
+        "image": "helenid+7.webp",
+        "classes": "Rogue",
+        "features" :"helenid+7.png"
+    },
+    {
+        "id":7,
+        "name" :"Shard",
+        "rate": 8,
+        "price": 10000,
+        "server": "Pandora",
+        "image": "shard+8.webp",
+        "classes": "Rogue",
+        "features" :"shard+8.png"
+    },
+    {
+        "id":7,
+        "name" :"Shard",
+        "rate": 8,
+        "price": 17000,
+        "server": "Pandora",
+        "image": "shard+8.webp",
+        "classes": "Rogue",
+        "features" :"shard+8.png"
+    }
+
+]

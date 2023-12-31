@@ -1,0 +1,41 @@
+@use "../../styles/variables" as v;
+
+.item-card{
+   text-align: center;
+   background-color: #333333;
+   .item-header{
+    height: 140px;
+    overflow: hidden;
+   }
+
+     .item-image{
+        width: 45px;
+        height: 45px;  
+        
+    }
+
+    .item-title{
+        color: #A05096;
+        font-size: 1rem;
+    }
+    .item-classes{
+        color: white;
+        font-size: .8rem;
+    }
+    .item-body{
+        height: 150px;
+        overflow: hidden;
+    }
+    .item-footer{
+        display: flex;
+        justify-content: space-between;
+        //border-color: #333333;
+        color: white;
+        .btn{
+            &:hover{
+                background-color: v.$color5;
+            }
+        }
+    }
+    
+}
